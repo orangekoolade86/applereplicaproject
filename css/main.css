@@ -1,0 +1,41 @@
+body {margin: 0;
+	  padding: 0;}
+
+/*top navigation bar color and text alignment*/
+.navigation {background: grey;
+			padding: 1px;
+			text-align: center;
+			}
+/*font color and spacing of the text inside the nevigation baf*/
+nav li {display:inline-block;
+ 				width: 7%;
+ 				color: white;
+ 				text-align: center;
+ 				}
+/*size of images inside the navigation bar*/
+.navigation img {height: 20px; width: 20px;
+ 	  			display: center}
+
+/*text on top of the iPhone image*/
+ .box {text-align: center;
+ 		 padding-top: 80px;
+ 		 }
+/*fint size of the text above the iPhone photo*/
+h1 {font-size: 50px}
+
+/*iPoneX image in thebmiddle of the page*/
+.box img {height: 460px; width:800px;
+		 position: relative; top: -100px;}
+/*text display and color on the footer*/
+footer li  {color: white;
+			display: inline;
+		   padding: 30px;
+		  
+		   text-align: right;}
+/*coor and size of the footer box*/
+footer {background: grey;
+		text-align:center;
+		padding: 1px;
+		position: relative; top: -500;}
+ 				
+ 				
